@@ -297,3 +297,4 @@
 /Users/sameerqureshi/Documents/ASP.NET/ASP.NET/ASP.NET/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
 /Users/sameerqureshi/Documents/ASP.NET/ASP.NET/ASP.NET/bin/Debug/net9.0/Npgsql.dll
 /Users/sameerqureshi/Documents/ASP.NET/ASP.NET/ASP.NET/bin/Debug/net9.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/sameerqureshi/Documents/ASP.NET/ASP.NET/ASP.NET/obj/Debug/net9.0/ASP.NET.sourcelink.json

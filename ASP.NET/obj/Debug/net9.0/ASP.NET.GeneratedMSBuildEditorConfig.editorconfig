@@ -32,20 +32,16 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sameerqureshi/Documents/ASP.NET/ASP.NET/ASP.NET/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/sameerqureshi/Documents/ASP.NET/ASP.NET/ASP.NET/Views/Home/Jokes.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Kb2tlcy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/sameerqureshi/Documents/ASP.NET/ASP.NET/ASP.NET/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+[/Users/sameerqureshi/Documents/ASP.NET/ASP.NET/ASP.NET/Views/Joke/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSm9rZS9Ib21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/sameerqureshi/Documents/ASP.NET/ASP.NET/ASP.NET/Views/Joke/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSm9rZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sameerqureshi/Documents/ASP.NET/ASP.NET/ASP.NET/Views/Joke/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSm9rZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/sameerqureshi/Documents/ASP.NET/ASP.NET/ASP.NET/Views/Shared/Error.cshtml]

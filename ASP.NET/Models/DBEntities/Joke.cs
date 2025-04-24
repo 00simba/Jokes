@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore.Metadata.Internal;
 namespace ASP.NET.Models;
 
 
-[Table("Jokes")]
+[Table("jokes")]
 public class Joke
 {
     [Column("joke_id")]

@@ -20,7 +20,7 @@ public class ApplicationDbContext : DbContext
         optionsBuilder.UseNpgsql(configuration.GetConnectionString("DefaultConnection"));
     }
 
-    public DbSet<Joke> Jokes { get; set; }
+    public DbSet<Joke> jokes { get; set; }
     
     
 }

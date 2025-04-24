@@ -1,0 +1,33 @@
+@model List<ASP.NET.Models.Joke>
+@{
+    ViewData["Title"] = "Jokes For You";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form>
+    <table class="table table-responsive table-hover">
+        <thead>
+        <tr class="table-active">
+            <th>Joke</th>
+            <th>Answer</th>
+            <th>Action</th>
+        </tr>
+        </thead>
+        <tbody>
+        @if(Model != null && Model.Any())
+        {
+            @foreach (var joke in Model)
+            {
+                <tr>
+                    <td>@joke.JokeQuestion</td>
+                    <td>@joke.JokeAnswer</td>
+                    <td>
+                        <a asp-action="DeleteJoke" asp-route-id="@joke.Id" class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        }
+        </tbody>
+    </table>
+</form>
